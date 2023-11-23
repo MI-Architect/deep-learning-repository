@@ -2,6 +2,7 @@
 | S.No | Course Name                                           | University/Instructor(s)                       | Course WebPage                                               | Lecture Videos                                               | Year            |
 | ---- | ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | 1.   | **Stanford CS25 - Transformers United**              | Stanford         | [CS25](https://web.stanford.edu/class/cs25/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)| 2022 |
+| 1.   | **Neural Networks: Zero to Hero**              | Youtube, Andrej Karpathy         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)| 2023 |
 
 # :balloon: :tada: Deep Learning Drizzle :confetti_ball: :balloon:
 
