@@ -1,3 +1,8 @@
+# Prioritized repositories
+| S.No | Course Name                                           | University/Instructor(s)                       | Course WebPage                                               | Lecture Videos                                               | Year            |
+| ---- | ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
+| 1.   | **Stanford CS25 - Transformers United**              | Stanford         | [CS25](https://web.stanford.edu/class/cs25/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)| 2022 |
+
 # :balloon: :tada: Deep Learning Drizzle :confetti_ball: :balloon:
 
 :books: [**"Read enough so you start developing intuitions and then trust your intuitions and go for it!"** ](https://www.deeplearning.ai/hodl-geoffrey-hinton/) :books:  ​<br/>  Prof. Geoffrey Hinton, University of Toronto
